@@ -1,0 +1,9 @@
+.checkers-board {
+    background-color: black;
+    width: 320px;
+    height: 320px;
+}
+    
+.tt {
+    background: red;
+}
